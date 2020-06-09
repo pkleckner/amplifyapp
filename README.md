@@ -1,4 +1,7 @@
-Follows [AWS Amplify Console tutorial](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/?e=gs2020&p=frontend).
+Following the [Deploy and host a ReactJS app with AWS Amplify Console tutorial](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/?e=gs2020&p=frontend).
+
+*This project is nothing ground-breaking. It's literally just create-react-app, and AWS tracks your changes on GitHub.*
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
