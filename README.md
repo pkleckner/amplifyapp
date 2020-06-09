@@ -1,3 +1,6 @@
+Follows [AWS Amplify Console tutorial](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/?e=gs2020&p=frontend).
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
